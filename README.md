@@ -5,7 +5,7 @@
 [![Packagist Downloads](https://img.shields.io/packagist/dt/calatoiu/cnpcui-rule?style=flat-square)](Downloads)
 [![GitHub Release](https://img.shields.io/github/v/release/calatoiu/cnpcui-rule?style=flat-square)](Release)
 
-This package provides a custom validation rule for Laravel to validate International Bank Account Numbers (CNPCUIs). It uses the validation rules defined by the Single Euro Payments Area (SEPA) and other non-SEPA countries to ensure that the given CNPCUI is valid.
+This package provides a custom validation rule for Laravel to validate  (CNPCUIs). 
 
 ### 🧰 Requirements
 - ```PHP >= 8.1```
@@ -61,15 +61,10 @@ Simply:
 # Now you're validation message will be translated!
 ```
 
-### 🔐 Validation Rules
-This package uses the validation rules defined by the Single Euro Payments Area (SEPA) and other non-SEPA countries to ensure that the given CNPCUI is valid. The validation rules are loaded from a `countries.json` file that is included in this package.
 
 ### 🤝 Contribution
 If you find any issues or have suggestions for improvements, feel free to open a pull request or issue. Your contribution is highly appreciated.
 
-### 🌍 Supported countries
-
-[Full list of supported countries](https://github.com/calatoiu/nova-cnpcui-field/blob/master/COUNTRIES.md)
 
 ### 🔨 Test
 
