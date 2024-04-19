@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ValidCnpcuiTest::testValidCnpcui":3},"times":{"ValidCnpcuiTest::testValidCnpcui":0.025,"ValidCnpcuiTest::testInvalidCnpcui":0.001,"ValidCnpcuiTest::testCnpcuiWithWhiteSpace":0,"ValidCnpcuiTest::testCnpcuiWithSpecialCharacters":0}}
