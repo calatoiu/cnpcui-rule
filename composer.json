@@ -1,7 +1,7 @@
 {
     "name": "calatoiu/cnpcui-rule",
     "description": "A Laravel validation rule to validate CNPCUI numbers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "laravel",
         "validation",
